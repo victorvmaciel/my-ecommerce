@@ -1,4 +1,4 @@
-package com.viktor.javaweb.entity;
+package com.viktor.javaweb.entities;
 
 import java.io.Serializable;
 
