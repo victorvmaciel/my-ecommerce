@@ -9,4 +9,10 @@ e commerce
 
 ## Java 11 ##
     
-    $sudo dpkg -i jdk-11.0.10_linux-x64_bin.deb
+    $sudo apt-get install default-jre
+    
+    $sudo apt-get install default-jdk
+    
+    $sudo update-alternatives --install /usr/bin/java javac /usr/lib/jvm/java-11-openjdk-amd64/ 100
+
+
